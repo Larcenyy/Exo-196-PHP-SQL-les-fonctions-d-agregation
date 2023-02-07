@@ -25,7 +25,8 @@
 
     // TODO Votre code ici, commencez par require un des objet de connexion que nous avons fait ensemble.
 
-
+        require "DbPDO.php";
+        DbPDO::connect()
     ?>
 </body>
 </html>
